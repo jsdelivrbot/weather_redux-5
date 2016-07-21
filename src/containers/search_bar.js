@@ -27,7 +27,7 @@ class SearchBar extends Component {
   render(){
     return(
       <form
-        className="imput-group"
+        className="input-group"
         onSubmit={this.onFormSubmit}
         >
         <input
